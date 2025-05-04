@@ -1,4 +1,4 @@
-FROM elixir:1.17.1
+FROM elixir:1.18.3
 
 
 COPY /lib /lib 
