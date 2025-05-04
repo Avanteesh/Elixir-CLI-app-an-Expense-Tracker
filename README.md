@@ -4,7 +4,7 @@
 CSV format to save and fetch data. Using mix package manager you can run this application through a Dockerimage as provided.
 </p>
 
-<img src="/montages/elixir-beam-runtime.png" height="250" />
+<img src="/montages/elixir-beam-runtime.png" height="500" />
 
 **TODO: Add description**
 ## Installation
