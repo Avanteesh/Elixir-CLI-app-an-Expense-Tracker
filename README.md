@@ -1,7 +1,10 @@
-# Expense
+# (Learning Elixir) ExpenseTracker CLI with filestorage
+
+<p>This is a simple CLI application I made in Elixir as a mini project for learning Elixir So far. It uses FileStorage in 
+CSV format to save and fetch data. Using mix package manager you can run this application through a Dockerimage as provided.
+</p>
 
 **TODO: Add description**
-
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
